@@ -1,0 +1,31 @@
+form{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    height: 200px;
+    background: rgb(210, 216, 210);
+}
+body{
+    text-align: center;
+    margin: 0px;
+    background: rgb(82, 145, 82);
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    position: relative;
+    line-height: 40px;
+}
+.droite{
+    position: absolute;
+    right: 1%;
+}
+.gauche{
+    position: absolute;
+    left: 1%;
+}
+.bas{
+    position: absolute;
+    bottom: 1px;
+    left: 30%;
+}
